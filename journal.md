@@ -7,3 +7,6 @@ Wile learning phyton iv'e seen a lot of things from math such as variales which 
 
 # September 28, 2024
 When creating my journal i didn't have a lot of problems following the instructions for creating it. The only challeges i faced when creating and doing my journal was finding the journal prompts, other than that it wasn't difficult creating it.
+
+# September 28, 2024
+This is a free week
