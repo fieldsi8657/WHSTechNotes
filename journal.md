@@ -11,5 +11,5 @@ When creating my journal i didn't have a lot of problems following the instructi
 # September 16, 2024
 This is a free week
 
-September 23, 2024
+# September 23, 2024
 Doing Phyton and doing Sphero, i can say that doing phyton is a harder and more complex coding style. While Sphero coding is you putting a bunch of commands toghether to make the thing your controll move and do something. While phyton takes much more thinking and requires focus to code becasue putting the wrong thing can mess up what your trying to do.
