@@ -13,6 +13,10 @@ This is a free week
 
 # September 23, 2024
 Doing Phyton and doing Sphero, i can say that doing phyton is a harder and more complex coding style. While Sphero coding is you putting a bunch of commands toghether to make the thing your controll move and do something. While phyton takes much more thinking and requires focus to code becasue putting the wrong thing can mess up what your trying to do.
+
+# September 30, 2024
+Computer Science is used everyday in my life i use it when i need to look up something on google or when i'm using my phone. Without these things in my life it would be very diffrent especially witout my phone i woudn't be able to text the people i know or call them either i also wouldn't be able to take pictures to save good memories i have.
+
 # October 10, 2024
 Software Development
 Looking at all the options in computer science i feel like becoming a softeare developer, intrest me the most. Software Developers job is to desgin, program, build, deploy and maintain software using many diffrent skills and tools. To become a software developer you need to have certain skills such as Programming languages, Data structures and algorithms, Databases, and so on and so on. Aslo to become a developer you need at least a bachelor's degree in a related field, such as computer science, software engineering, computer and information technology, or engineering. This job algins with my interest because i like computers and learning about the coding and software development seems very interesting to me and challenging.
