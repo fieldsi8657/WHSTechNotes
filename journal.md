@@ -32,3 +32,5 @@ sources
 https://www.techtarget.com/searchenterpriseai/tip/9-top-AI-and-machine-learning-trends
 
 https://www.google.com/search?surl=1&q=what+are+people+able+to+do+with+Multimodal+AI%0D%0A&sca_esv=32e73b67f33f8410&rlz=1C1GCHA_enUS1124US1125&ei=jO9NZ4_vN5rlwN4P2u_C2Qs&ved=0ahUKEwiP5f-jz4mKAxWaMtAFHdq3MLsQ4dUDCA8&uact=5&oq=what+are+people+able+to+do+with+Multimodal+AI%0D%0A&gs_lp=Egxnd3Mtd2l6LXNlcnAiLndoYXQgYXJlIHBlb3BsZSBhYmxlIHRvIGRvIHdpdGggTXVsdGltb2RhbCBBSQoyChAAGLADGNYEGEdIzjVQ1wVYsCtwAXgBkAEAmAEAoAEAqgEAuAEDyAEA-AEC-AEBmAIBoAICmAMAiAYBkAYBkgcBMaAHAA&sclient=gws-wiz-serp&safe=active&ssui=on
+# December 9, 2024
+The word brain rot means to me watching something or saying something with no meaning or that is dumb or stupid on purpose. One exaple of something being brain rot is a collection of videos called skibidi toilet, a animated video series where peoples heads are coming out of the toilet and doing random things in the videos.
