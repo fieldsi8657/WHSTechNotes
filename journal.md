@@ -41,10 +41,13 @@ With the new semester here i would like to express my thoughts on my expereince 
 With AI being use more than ever now companies all over the world are staring to use Ai to help and improve the workplace with all types of things.But with AI the growth rapidly taking over companies are investing in more AI which is giving less opportunities for humans to get a job.This really shows for tech comapines as studies show 95% of senior leaders reporting current investments in the technology; some compaines are planning to invest in 10 million or more to AI.With Ai being used more than ever i believe this is limiting a lot of jobs for AI and making it more difficult for people to get jobs, especially in the tech industry.
 # January 22, 2025
 With theh Us government temporally banning tik tok for all users a lot of people question and wonder if government intervention impacts technology companies and their users? In my government involving themselves in tech related things effects users mostly because tech compaines such like tik tok collect their consumers data and the government then can take that data for themselves.\
-# Febuary 3, 2025
+# February 3, 2025
 With the recent tragic  plane crash in Washigton D.C there is a question that seems to pop up in a lot of peoples heads, how can you prevent an incident like this from happening again.One way is improving the technolgy in the aviation field, One way we can improve the technolgy in Developed by researchers at MIT’s Computer Science and Artificial Intelligence Laboratory, Air-Guardian extends beyond the limitations of traditional autopilot by forging a collaborative, symbiotic partnership with the pilot. The AI copilot leverages cutting-edge eye-tracking technology as well as “saliency maps, which pinpoint where attention is directed.” This allows for monitoring of where a pilot's gaze falls within a flight environment, from the cockpit to the skies beyond. Gathering valuable insights into the user's focus and decision-making process, Air-Guardian analyses this information in conjunction with real-time flight data to anticipate potential risks, shortcomings, and areas of improvement through detailed algorithm development. This proactive approach allows Air-Guardian to make decisions that complement the pilot's movements before or during the action, rather than after an incident has occurred.
 source:https://www.captechu.edu/blog/how-ai-can-improve-aviation-safety
-# Febuary 18, 2025
+# February 18, 2025
 While scrolling onn tik tok i learned that a astronaunt with a disabilty was cleared for a mission making him the first astronaunt with a disabilty to go to space
-# Febuary 24, 2025
+# February 24, 2025
 Technolgy can play a vital role in bridging generational language and understanding between diffrent age groups. Technolgy can be used to educate and train individuals on the cultural diffrences that exist between generations. Things like onlince courses and webinars can provide valuabe insights into the communication styles and cultural background of diffrent age groups helping to foster an understanding and respect between generations.
+March 
+# March 3, 2025
+I feel like when the substitute 
