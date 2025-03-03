@@ -50,4 +50,4 @@ While scrolling onn tik tok i learned that a astronaunt with a disabilty was cle
 Technolgy can play a vital role in bridging generational language and understanding between diffrent age groups. Technolgy can be used to educate and train individuals on the cultural diffrences that exist between generations. Things like onlince courses and webinars can provide valuabe insights into the communication styles and cultural background of diffrent age groups helping to foster an understanding and respect between generations.
 March 
 # March 3, 2025
-I feel like when the substitute 
+I feel like when the substitute came the class was prettty well behaved and respectful toward the teacher and made her job as easy as possible. I hope when we left that she felt that this was a well behaved class and would gladly do it again. The thing i would change for any future substitute teacher is to be more talkitive with her for a better experience when she comes.
