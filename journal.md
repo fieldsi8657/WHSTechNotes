@@ -51,3 +51,5 @@ Technolgy can play a vital role in bridging generational language and understand
 March 
 # March 3, 2025
 I feel like when the substitute came the class was prettty well behaved and respectful toward the teacher and made her job as easy as possible. I hope when we left that she felt that this was a well behaved class and would gladly do it again. The thing i would change for any future substitute teacher is to be more talkitive with her for a better experience when she comes.
+# March 24, 2025
+Wiih March Maddness here, people are placing bets and trying to perdict who will come out on top this year. When doing so a lot of people like to go to look at sports data to help them with those decisions. Even though sports analysts aren't always right its a fair guess on who will win.
