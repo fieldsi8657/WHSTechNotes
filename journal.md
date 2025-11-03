@@ -71,3 +71,15 @@ Now that school has started for me here in texas, a few changes have happened ov
 One carrer pathway I hope I can pursue is in graphic desgin. In graphic desgin you create visual concepts using typography, images, and color to communicate messages and solve problems for clients. Graohic Desgin uses all types of things to make there work as efficent and easy as possible. but one thing that you proably didn't know helps with graphc desgin is computer science. Computer Science provides graphic desginers the abilty to use tools and unique technology to make their work easier and more accesible for all learners and users.
 # September 22, 2025
 I think working in a virtual job while making real money is not a bad idea. While yes it might take a toll on ones sanity, seeing as you'll be working in a virtual world for hours on in. But i think if your making money off of it and your managing your time in the real world and the virtual world pretty well, i don't think working in a virtual world is such a bad idea. 
+# September 30, 2025
+67 is a phrase used manily as just a nonsensical joke widley used among generation Alpha (ages 14 and under). The phrase was first used in a song called Doot Doot made by the rapper skrilla. The phrase first gained notoriety in basketball edits on tik tok, and then from there, the phrase became super popular among the younger generation, even being used by some celebrities.
+# October 6, 2025
+If I was in charge of a school I would make sure that AI use would be as low as possible. AI has been a highly used tool students use to study,learn,and discover new ways to learn for any subject they may need help with, and even though AI is a major positive in today's world and helps out a lot especially in school, it is often used as a cop out to doing actual work, with most kids asking it just to give them the answers.
+
+# October 20, 2025
+| Name     | Class | Seat |
+| :------- | :---- | :--- |
+| Franklin |Second | 91A  |
+| Hardeep  |Third  | 61F  |
+| Marla    |First  | 35B  |
+
