@@ -83,12 +83,6 @@ If I was in charge of a school I would make sure that AI use would be as low as 
 | Hardeep  |Third  | 61F  |
 | Marla    |First  | 35B  |
 # October 27, 2025
-| Name     | Class | Seat |
-| :------- | :---- | :--- |
-| Franklin |Second | 91A  |
-| Hardeep  |Third  | 61F  |
-| Marla    |First  | 35B  |
-
 Name	Main Dish	Dessert
 Fiona	|	Gado Gado         |  Creme Brulee
 Tobias |	Shrimp Ceviche  |  French Apple Cake
