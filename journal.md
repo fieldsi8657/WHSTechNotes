@@ -88,4 +88,11 @@ If I was in charge of a school I would make sure that AI use would be as low as 
 | Fiona    |Gado Gado      |Creme Brulee|
 | Tobias   |Shrimp Ceviche|French Apple Cake|
 | Leanne   |Beef Wellington|Raspberry Tiramisu|
+# November 3, 2025
+The problem is that SNAP (Supplemental Nutrition Assistance Program) could run out of funding, which would be a big deal because it helps millions of low-income individuals and families afford food. If SNAP benefits are cut, food insecurity would likely increase, especially for children, seniors, and people with disabilities. Technology could help by connecting people with resources like local food banks and free meal programs through apps and websites. However, challenges exist because not everyone has access to reliable internet or a smartphone, and some people may have privacy concerns about sharing their personal information online. If I were designing a tool to help solve food insecurity, I would create an app called "NourishNet," which would provide a map of nearby food resources, allow users to anonymously request assistance, and offer tips for healthy eating on a budget.
+# November 10, 2025 
+Technology has changed holiday celebrations in both positive and negative ways, and developers should be responsible for making sure holiday tech respects privacy and family time.
+# November 17, 2025
+I am very ecstatic for Thanksgiving this year!! My mom has already decided what our family is going to eat this year, with a lineup of ham, candied yams, mashed potatoes, mac and cheese, cabbage, cornbread, and other little side dishes.
+
 
