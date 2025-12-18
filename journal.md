@@ -94,5 +94,12 @@ The problem is that SNAP (Supplemental Nutrition Assistance Program) could run o
 Technology has changed holiday celebrations in both positive and negative ways, and developers should be responsible for making sure holiday tech respects privacy and family time.
 # November 17, 2025
 I am very ecstatic for Thanksgiving this year!! My mom has already decided what our family is going to eat this year, with a lineup of ham, candied yams, mashed potatoes, mac and cheese, cabbage, cornbread, and other little side dishes.
+# December 1, 2025
+Drone programmers are essential in the drone industry because they create the software that allows drones to fly, navigate, and perform specific tasks. They write code for flight control systems, autonomous navigation, and data processing. Without programmers, drones would be unable to execute complex missions or operate safely. According to ZipRecruiter, the average salary for a drone programmer in Texas is around $92,000 per year. The required education typically includes a bachelor's degree in computer science, software engineering, or a related field, as well as experience with programming languages like C++ or Python and knowledge of drone technology and regulations.
+# December 8, 2025
+Self-driving cars might fail to recognize a stopped school bus due to blockage, where other vehicles or objects obstruct the view. Poor lighting or weather conditions can also impair the cameras and sensors. The AI might struggle if its training data lacks sufficient examples of school buses with extended stop signs in various environments. As a Waymo programmer, I would implement a sensor fusion system that combines data from cameras, lidar, and radar to create a more robust understanding of the environment. I would also add a software rule that triggers an emergency stop if a large, yellow vehicle with specific dimensions and flashing lights is detected, regardless of stop sign recognition. This redundancy would ensure greater safety around school buses.
+# December 15, 2025 
+This winter break i plan on just working as much as possible and buuilding up my money as much as possible, while also attending some basketball games and tournaments and practices. I also want to spend time with my family and have a good New Year's and Christmas. This month aslo marks the last time i will see my brother for a while as he is going to be deploying to the military soon. With my brother leaving this Winter Break will be pretty bitter sweet but will try to have the best time as possible.
+
 
 
