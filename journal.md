@@ -101,5 +101,6 @@ Self-driving cars might fail to recognize a stopped school bus due to blockage, 
 # December 15, 2025 
 This winter break i plan on just working as much as possible and buuilding up my money as much as possible, while also attending some basketball games and tournaments and practices. I also want to spend time with my family and have a good New Year's and Christmas. This month aslo marks the last time i will see my brother for a while as he is going to be deploying to the military soon. With my brother leaving this Winter Break will be pretty bitter sweet but will try to have the best time as possible.
 
-
+# January 6, 2026
+During the break I was really busy with basketball and work. While doing such things I used technolgy a lot, with the main being my phone. I used my phone for a multitude of reason like texting, calling, facetime, and helping with task.
 
