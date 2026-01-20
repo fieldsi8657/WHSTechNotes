@@ -104,3 +104,6 @@ This winter break i plan on just working as much as possible and buuilding up my
 # January 6, 2026
 During the break I was really busy with basketball and work. While doing such things I used technolgy a lot, with the main being my phone. I used my phone for a multitude of reason like texting, calling, facetime, and helping with task.
 
+# January, 12, 2026
+When doing anything on the internet it is important to stay safe and protected when doing so. A lot of times when people are on the internet they are unaware of the countless bullies that are waiting, many times being people that they know. An example of this is the gaming community. Kids around the world love playing video games, with some even building a carrer out of playing them and building good skills and freindships off of them. But studies show that most people in the gaming community experience bullying, with surveys showing numbers as high as 75-80% of people experiencing bullying online. This is a major problem in america with many kids suffering from 
+
