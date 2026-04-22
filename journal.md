@@ -117,5 +117,7 @@ On February 8 Super Bowl LX was played between the Seahawks and the New England 
 # February 23, 2026
 In this year's Winter Olympics, many new innovations were shown off to enhance this year's experience for viewers all over the world. One peice of thecnolgy that was used that really stuck out to me was the 
 # March 23, 2026
-In the making of my bracket i used a lot of guessing and a bit of knowlegde of college ball. My bracket so far has been pretty bad so far but i feel like with more research on teams and data for college basketball I would have made a better bracket 
+In the making of my bracket i used a lot of guessing and a bit of knowlegde of college ball. My bracket so far has been pretty bad so far, I feel like with more research on teams and data for college basketball I would have made a better bracket. Types of technolgy jobs that would help in future brackets people make are jobs like  Data Scientist, Software Engineer, Data Engineer,  Sports Betting Analyst and many others caould help furture sports fans in making a better and more realistic brackety in the future.
+# March 30, 2026
+
 
