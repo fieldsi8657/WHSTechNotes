@@ -119,5 +119,23 @@ In this year's Winter Olympics, many new innovations were shown off to enhance t
 # March 23, 2026
 In the making of my bracket i used a lot of guessing and a bit of knowlegde of college ball. My bracket so far has been pretty bad so far, I feel like with more research on teams and data for college basketball I would have made a better bracket. Types of technolgy jobs that would help in future brackets people make are jobs like  Data Scientist, Software Engineer, Data Engineer,  Sports Betting Analyst and many others caould help furture sports fans in making a better and more realistic brackety in the future.
 # March 30, 2026
+(I used AI to assist with this entry)
+The answer is Upsets in March Madness are often driven by unquantifiable factors like pressure, momentum, and team chemistry, which statistical models struggle to predict. For example, Furman's upset of Virginia in the 2023 tournament highlighted how a team's execution and confidence can overcome statistical advantages. Computer programs would face challenges accounting for these human elements and the dynamic nature of game flow. Improving predictions could involve incorporating metrics for player morale, team synergy, and real-time game momentum.
+# April 9, 2026
+(I used AI to assist with this entry)
+The answer is Humans can convince the AI by demonstrating their capacity for adaptation and risk management through a phased, data-driven approach to environmental exposure and training.
+# April 13, 2026
+(I used AI to assist with this entry)
+The answer is Modern space technology is not yet fully reliable for extended missions to the Moon or Mars, as evidenced by the Artemis II mission's challenges. Advanced life support systems and communication technology were crucial for the mission's success, enabling astronaut survival and data transmission. However, issues with the waste management system and the communication blackout highlight significant limitations. These challenges are important because they emphasize the need for more robust and resilient systems to ensure astronaut safety and mission success on future long-duration space endeavors.
+# April 20, 2026
+(I used AI to assist with this entry)
+The answer is AI significantly changes content experience by challenging authenticity and necessitating ethical limits, as human-created content offers a unique emotional depth that AI struggles to replicate.
+# April 27, 2026
+(I used AI to assist with this entry)
+This week, I paid close attention to my online classes, and technology played a crucial role in shaping my learning experience. The learning management system (LMS) provided a centralized hub for all course materials, assignments, and communication with my professor. I was able to access lecture videos, submit assignments digitally, and participate in online discussions, all of which were facilitated by the LMS. This technological integration allowed for flexible learning, enabling me to study at my own pace and on my own schedule. Without these technological tools, attending classes and keeping up with coursework would have been significantly more challenging.
+# May 6, 2026
+# May 11, 2026
+As this school year ends and my graduation starts to creep up on me I want to reflect on some of the things in feel like I learned from 
+
 
 
