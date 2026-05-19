@@ -134,8 +134,10 @@ The answer is AI significantly changes content experience by challenging authent
 (I used AI to assist with this entry)
 This week, I paid close attention to my online classes, and technology played a crucial role in shaping my learning experience. The learning management system (LMS) provided a centralized hub for all course materials, assignments, and communication with my professor. I was able to access lecture videos, submit assignments digitally, and participate in online discussions, all of which were facilitated by the LMS. This technological integration allowed for flexible learning, enabling me to study at my own pace and on my own schedule. Without these technological tools, attending classes and keeping up with coursework would have been significantly more challenging.
 # May 6, 2026
-# May 11, 2026
-As this school year ends and my graduation starts to creep up on me I want to reflect on some of the things in feel like I learned from 
 
+# May 11, 2026
+Some things I improved on this year is definitely my socail skills. I feel like I got out of my comfort zone a lot this year with this school year being the most amount of times I went to school events like football games and volleyball games. I also participated in track this year and meet new friends this year. I also feel like this was my best year acedemically with having A's and B's every nine weeks.   
+# May 18, 2026
+For this journal I will be using my freind Lance. How i would describe lance would be and tall african american male 6'5 with a red backback short hair big hands, usally wears baggy clothes either has vans or new balance shoes on.  
 
 
